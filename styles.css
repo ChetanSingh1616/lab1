@@ -1,0 +1,23 @@
+H1{
+    text-align: center;
+    color: red;
+    font-family: Impact, sans-serif;
+}
+img{display: block;
+    margin: auto;
+
+   }
+#fig{color:red;
+    text-align: center;
+    font-size: 20px;
+    font-family: Impact, sans-serif; }
+
+    p{
+            text-align: center; 
+            font-family: Georgia, serif;}
+ .centered-text {
+                text-align: center;
+                font-family: Georgia, serif;
+            }
+
+
